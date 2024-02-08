@@ -34,4 +34,10 @@ O repositório está organizado da seguinte forma:
 
 Se tiver alguma dúvida ou precisar de suporte, não hesite em entrar em contato com a organização do evento ou abrir uma issue neste repositório.
 
-Vamos fazer deste Open Data Day uma experiência incrível juntos! 💙
+<p align="center">
+    <a href="https://www.linkedin.com/company/13011790/admin/feed/posts/"><img src="https://img.shields.io/badge/-Py013-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <br><br>
+    Vamos fazer deste Open Data Day uma experiência incrível juntos! 💙
+</p>
+
+
