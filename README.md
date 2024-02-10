@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/py013/Open-Data-Day-2024/"><img align="center" src="https://i.imgur.com/fjBSLdh.png" width="400"></a>
+    <a href="https://github.com/py013/Open-Data-Day-2024/"><img align="center" src="https://i.imgur.com/2O5Y9iJ.png" width="400"></a>
 </p>
 
 # Open Data Day 2024 - Comunidade Py013 🐍
