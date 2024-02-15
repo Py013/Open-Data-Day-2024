@@ -1,0 +1,644 @@
+﻿UF;Nome_UF;Região Geográfica Intermediária;Nome Região Geográfica Intermediária;Região Geográfica Imediata;Nome Região Geográfica Imediata;Mesorregião Geográfica;Nome_Mesorregião;Microrregião Geográfica;Nome_Microrregião;Município;Código Município Completo;Nome_Município;Distrito;Código de Distrito Completo;Nome_Distrito;Subdistrito;Código de Subdistrito Completo;Nome_Subdistrito
+11;Rondônia;1101;Porto Velho;110001;Porto Velho;01;Madeira-Guaporé;001;Porto Velho;00205;1100205;Porto Velho;05;110020505;Porto Velho;06;11002050506;Zona 01
+11;Rondônia;1101;Porto Velho;110001;Porto Velho;01;Madeira-Guaporé;001;Porto Velho;00205;1100205;Porto Velho;05;110020505;Porto Velho;07;11002050507;Zona 02
+11;Rondônia;1101;Porto Velho;110001;Porto Velho;01;Madeira-Guaporé;001;Porto Velho;00205;1100205;Porto Velho;05;110020505;Porto Velho;08;11002050508;Zona 03
+11;Rondônia;1101;Porto Velho;110001;Porto Velho;01;Madeira-Guaporé;001;Porto Velho;00205;1100205;Porto Velho;05;110020505;Porto Velho;09;11002050509;Zona 04
+11;Rondônia;1101;Porto Velho;110001;Porto Velho;01;Madeira-Guaporé;001;Porto Velho;00205;1100205;Porto Velho;05;110020505;Porto Velho;10;11002050510;Zona 05
+13;Amazonas;1301;Manaus;130001;Manaus;03;Centro Amazonense;007;Manaus;02603;1302603;Manaus;05;130260305;Manaus;06;13026030506;Primeira R.A.
+13;Amazonas;1301;Manaus;130001;Manaus;03;Centro Amazonense;007;Manaus;02603;1302603;Manaus;05;130260305;Manaus;07;13026030507;Segunda R.A.
+13;Amazonas;1301;Manaus;130001;Manaus;03;Centro Amazonense;007;Manaus;02603;1302603;Manaus;05;130260305;Manaus;08;13026030508;Terceira R.A.
+13;Amazonas;1301;Manaus;130001;Manaus;03;Centro Amazonense;007;Manaus;02603;1302603;Manaus;05;130260305;Manaus;09;13026030509;Quarta R.A.
+13;Amazonas;1301;Manaus;130001;Manaus;03;Centro Amazonense;007;Manaus;02603;1302603;Manaus;05;130260305;Manaus;10;13026030510;Quinta R.A.
+13;Amazonas;1301;Manaus;130001;Manaus;03;Centro Amazonense;007;Manaus;02603;1302603;Manaus;05;130260305;Manaus;11;13026030511;Sexta R.A.
+13;Amazonas;1301;Manaus;130001;Manaus;03;Centro Amazonense;007;Manaus;02603;1302603;Manaus;05;130260305;Manaus;12;13026030512;Sétima R.A.
+13;Amazonas;1301;Manaus;130001;Manaus;03;Centro Amazonense;007;Manaus;02603;1302603;Manaus;05;130260305;Manaus;13;13026030513;Oitava R.A.
+13;Amazonas;1301;Manaus;130001;Manaus;03;Centro Amazonense;007;Manaus;02603;1302603;Manaus;05;130260305;Manaus;14;13026030514;Nona R.A.
+22;Piauí;2201;Teresina;220001;Teresina;02;Centro-Norte Piauiense;003;Teresina;11001;2211001;Teresina;05;221100105;Teresina;06;22110010506;Centro
+22;Piauí;2201;Teresina;220001;Teresina;02;Centro-Norte Piauiense;003;Teresina;11001;2211001;Teresina;05;221100105;Teresina;07;22110010507;Leste
+22;Piauí;2201;Teresina;220001;Teresina;02;Centro-Norte Piauiense;003;Teresina;11001;2211001;Teresina;05;221100105;Teresina;08;22110010508;Norte
+22;Piauí;2201;Teresina;220001;Teresina;02;Centro-Norte Piauiense;003;Teresina;11001;2211001;Teresina;05;221100105;Teresina;09;22110010509;Sudeste
+22;Piauí;2201;Teresina;220001;Teresina;02;Centro-Norte Piauiense;003;Teresina;11001;2211001;Teresina;05;221100105;Teresina;10;22110010510;Sul
+23;Ceará;2301;Fortaleza;230001;Fortaleza;03;Metropolitana de Fortaleza;016;Fortaleza;04400;2304400;Fortaleza;05;230440005;Fortaleza;13;23044000513;Região administrativa I
+23;Ceará;2301;Fortaleza;230001;Fortaleza;03;Metropolitana de Fortaleza;016;Fortaleza;04400;2304400;Fortaleza;05;230440005;Fortaleza;14;23044000514;Região administrativa II
+23;Ceará;2301;Fortaleza;230001;Fortaleza;03;Metropolitana de Fortaleza;016;Fortaleza;04400;2304400;Fortaleza;05;230440005;Fortaleza;15;23044000515;Região administrativa III
+23;Ceará;2301;Fortaleza;230001;Fortaleza;03;Metropolitana de Fortaleza;016;Fortaleza;04400;2304400;Fortaleza;05;230440005;Fortaleza;16;23044000516;Região administrativa IV
+23;Ceará;2301;Fortaleza;230001;Fortaleza;03;Metropolitana de Fortaleza;016;Fortaleza;04400;2304400;Fortaleza;05;230440005;Fortaleza;17;23044000517;Região administrativa V
+23;Ceará;2301;Fortaleza;230001;Fortaleza;03;Metropolitana de Fortaleza;016;Fortaleza;04400;2304400;Fortaleza;05;230440005;Fortaleza;18;23044000518;Região administrativa VI
+23;Ceará;2301;Fortaleza;230001;Fortaleza;03;Metropolitana de Fortaleza;016;Fortaleza;04400;2304400;Fortaleza;05;230440005;Fortaleza;19;23044000519;Região administrativa VII
+23;Ceará;2301;Fortaleza;230001;Fortaleza;03;Metropolitana de Fortaleza;016;Fortaleza;04400;2304400;Fortaleza;05;230440005;Fortaleza;20;23044000520;Região administrativa VIII
+23;Ceará;2301;Fortaleza;230001;Fortaleza;03;Metropolitana de Fortaleza;016;Fortaleza;04400;2304400;Fortaleza;05;230440005;Fortaleza;21;23044000521;Região administrativa IX
+23;Ceará;2301;Fortaleza;230001;Fortaleza;03;Metropolitana de Fortaleza;016;Fortaleza;04400;2304400;Fortaleza;05;230440005;Fortaleza;22;23044000522;Região administrativa X
+23;Ceará;2301;Fortaleza;230001;Fortaleza;03;Metropolitana de Fortaleza;016;Fortaleza;04400;2304400;Fortaleza;05;230440005;Fortaleza;23;23044000523;Região administrativa XI
+23;Ceará;2301;Fortaleza;230001;Fortaleza;03;Metropolitana de Fortaleza;016;Fortaleza;04400;2304400;Fortaleza;05;230440005;Fortaleza;24;23044000524;Região administrativa XII
+24;Rio Grande do Norte;2401;Natal;240001;Natal;04;Leste Potiguar;018;Natal;08102;2408102;Natal;05;240810205;Natal;06;24081020506;R.A. Norte
+24;Rio Grande do Norte;2401;Natal;240001;Natal;04;Leste Potiguar;018;Natal;08102;2408102;Natal;05;240810205;Natal;07;24081020507;R.A. Sul
+24;Rio Grande do Norte;2401;Natal;240001;Natal;04;Leste Potiguar;018;Natal;08102;2408102;Natal;05;240810205;Natal;08;24081020508;R.A. Leste
+24;Rio Grande do Norte;2401;Natal;240001;Natal;04;Leste Potiguar;018;Natal;08102;2408102;Natal;05;240810205;Natal;09;24081020509;R.A. Oeste
+26;Pernambuco;2601;Recife;260001;Recife;05;Metropolitana de Recife;017;Recife;03454;2603454;Camaragibe;05;260345405;Camaragibe;06;26034540506;RPA I
+26;Pernambuco;2601;Recife;260001;Recife;05;Metropolitana de Recife;017;Recife;03454;2603454;Camaragibe;05;260345405;Camaragibe;07;26034540507;RPA II
+26;Pernambuco;2601;Recife;260001;Recife;05;Metropolitana de Recife;017;Recife;03454;2603454;Camaragibe;05;260345405;Camaragibe;08;26034540508;RPA III
+26;Pernambuco;2601;Recife;260001;Recife;05;Metropolitana de Recife;017;Recife;03454;2603454;Camaragibe;05;260345405;Camaragibe;09;26034540509;RPA IV
+26;Pernambuco;2601;Recife;260001;Recife;05;Metropolitana de Recife;017;Recife;03454;2603454;Camaragibe;05;260345405;Camaragibe;10;26034540510;RPA V
+26;Pernambuco;2604;Petrolina;260015;Petrolina;02;São Francisco Pernambucano;005;Petrolina;11101;2611101;Petrolina;05;261110105;Petrolina;06;26111010506;RA Centro
+26;Pernambuco;2604;Petrolina;260015;Petrolina;02;São Francisco Pernambucano;005;Petrolina;11101;2611101;Petrolina;05;261110105;Petrolina;07;26111010507;RA Oeste
+26;Pernambuco;2604;Petrolina;260015;Petrolina;02;São Francisco Pernambucano;005;Petrolina;11101;2611101;Petrolina;05;261110105;Petrolina;08;26111010508;RA Norte
+26;Pernambuco;2604;Petrolina;260015;Petrolina;02;São Francisco Pernambucano;005;Petrolina;11101;2611101;Petrolina;05;261110105;Petrolina;09;26111010509;RA Leste
+26;Pernambuco;2601;Recife;260001;Recife;05;Metropolitana de Recife;017;Recife;11606;2611606;Recife;05;261160605;Recife;18;26116060518;RPA 01
+26;Pernambuco;2601;Recife;260001;Recife;05;Metropolitana de Recife;017;Recife;11606;2611606;Recife;05;261160605;Recife;19;26116060519;RPA 02
+26;Pernambuco;2601;Recife;260001;Recife;05;Metropolitana de Recife;017;Recife;11606;2611606;Recife;05;261160605;Recife;20;26116060520;RPA 03
+26;Pernambuco;2601;Recife;260001;Recife;05;Metropolitana de Recife;017;Recife;11606;2611606;Recife;05;261160605;Recife;21;26116060521;RPA 04
+26;Pernambuco;2601;Recife;260001;Recife;05;Metropolitana de Recife;017;Recife;11606;2611606;Recife;05;261160605;Recife;22;26116060522;RPA 05
+26;Pernambuco;2601;Recife;260001;Recife;05;Metropolitana de Recife;017;Recife;11606;2611606;Recife;05;261160605;Recife;23;26116060523;RPA 06
+27;Alagoas;2701;Maceió;270001;Maceió;03;Leste Alagoano;011;Maceió;04302;2704302;Maceió;05;270430205;Maceió;06;27043020506;Primeira Região
+27;Alagoas;2701;Maceió;270001;Maceió;03;Leste Alagoano;011;Maceió;04302;2704302;Maceió;05;270430205;Maceió;07;27043020507;Segunda Região
+27;Alagoas;2701;Maceió;270001;Maceió;03;Leste Alagoano;011;Maceió;04302;2704302;Maceió;05;270430205;Maceió;08;27043020508;Terceira Região
+27;Alagoas;2701;Maceió;270001;Maceió;03;Leste Alagoano;011;Maceió;04302;2704302;Maceió;05;270430205;Maceió;09;27043020509;Quarta Região
+27;Alagoas;2701;Maceió;270001;Maceió;03;Leste Alagoano;011;Maceió;04302;2704302;Maceió;05;270430205;Maceió;10;27043020510;Quinta Região
+27;Alagoas;2701;Maceió;270001;Maceió;03;Leste Alagoano;011;Maceió;04302;2704302;Maceió;05;270430205;Maceió;11;27043020511;Sexta Região
+27;Alagoas;2701;Maceió;270001;Maceió;03;Leste Alagoano;011;Maceió;04302;2704302;Maceió;05;270430205;Maceió;12;27043020512;Sétima Região
+27;Alagoas;2701;Maceió;270001;Maceió;03;Leste Alagoano;011;Maceió;04302;2704302;Maceió;05;270430205;Maceió;13;27043020513;Oitava Região
+29;Bahia;2910;Feira de Santana;290029;Feira de Santana;03;Centro Norte Baiano;012;Feira de Santana;10800;2910800;Feira de Santana;05;291080005;Feira de Santana;06;29108000506;Mangabeira
+29;Bahia;2910;Feira de Santana;290029;Feira de Santana;03;Centro Norte Baiano;012;Feira de Santana;10800;2910800;Feira de Santana;05;291080005;Feira de Santana;07;29108000507;Pampalona
+29;Bahia;2910;Feira de Santana;290029;Feira de Santana;03;Centro Norte Baiano;012;Feira de Santana;10800;2910800;Feira de Santana;05;291080005;Feira de Santana;08;29108000508;Santana
+29;Bahia;2910;Feira de Santana;290029;Feira de Santana;03;Centro Norte Baiano;012;Feira de Santana;10800;2910800;Feira de Santana;05;291080005;Feira de Santana;09;29108000509;Santo Antônio
+29;Bahia;2910;Feira de Santana;290029;Feira de Santana;03;Centro Norte Baiano;012;Feira de Santana;10800;2910800;Feira de Santana;05;291080005;Feira de Santana;11;29108000511;Subae
+29;Bahia;2901;Salvador;290001;Salvador;05;Metropolitana de Salvador;021;Salvador;27408;2927408;Salvador;05;292740805;Salvador;06;29274080506;Amaralina
+29;Bahia;2901;Salvador;290001;Salvador;05;Metropolitana de Salvador;021;Salvador;27408;2927408;Salvador;05;292740805;Salvador;07;29274080507;Brotas
+29;Bahia;2901;Salvador;290001;Salvador;05;Metropolitana de Salvador;021;Salvador;27408;2927408;Salvador;05;292740805;Salvador;08;29274080508;Conceição da Praia
+29;Bahia;2901;Salvador;290001;Salvador;05;Metropolitana de Salvador;021;Salvador;27408;2927408;Salvador;05;292740805;Salvador;09;29274080509;Itapoã
+29;Bahia;2901;Salvador;290001;Salvador;05;Metropolitana de Salvador;021;Salvador;27408;2927408;Salvador;05;292740805;Salvador;10;29274080510;Maré
+29;Bahia;2901;Salvador;290001;Salvador;05;Metropolitana de Salvador;021;Salvador;27408;2927408;Salvador;05;292740805;Salvador;11;29274080511;Mares
+29;Bahia;2901;Salvador;290001;Salvador;05;Metropolitana de Salvador;021;Salvador;27408;2927408;Salvador;05;292740805;Salvador;12;29274080512;Nazaré
+29;Bahia;2901;Salvador;290001;Salvador;05;Metropolitana de Salvador;021;Salvador;27408;2927408;Salvador;05;292740805;Salvador;13;29274080513;Paripe
+29;Bahia;2901;Salvador;290001;Salvador;05;Metropolitana de Salvador;021;Salvador;27408;2927408;Salvador;05;292740805;Salvador;14;29274080514;Passo
+29;Bahia;2901;Salvador;290001;Salvador;05;Metropolitana de Salvador;021;Salvador;27408;2927408;Salvador;05;292740805;Salvador;15;29274080515;Penha
+29;Bahia;2901;Salvador;290001;Salvador;05;Metropolitana de Salvador;021;Salvador;27408;2927408;Salvador;05;292740805;Salvador;16;29274080516;Periperi
+29;Bahia;2901;Salvador;290001;Salvador;05;Metropolitana de Salvador;021;Salvador;27408;2927408;Salvador;05;292740805;Salvador;17;29274080517;Pilar
+29;Bahia;2901;Salvador;290001;Salvador;05;Metropolitana de Salvador;021;Salvador;27408;2927408;Salvador;05;292740805;Salvador;18;29274080518;Pirajá
+29;Bahia;2901;Salvador;290001;Salvador;05;Metropolitana de Salvador;021;Salvador;27408;2927408;Salvador;05;292740805;Salvador;19;29274080519;Plataforma
+29;Bahia;2901;Salvador;290001;Salvador;05;Metropolitana de Salvador;021;Salvador;27408;2927408;Salvador;05;292740805;Salvador;20;29274080520;Santana
+29;Bahia;2901;Salvador;290001;Salvador;05;Metropolitana de Salvador;021;Salvador;27408;2927408;Salvador;05;292740805;Salvador;21;29274080521;Santo Antônio
+29;Bahia;2901;Salvador;290001;Salvador;05;Metropolitana de Salvador;021;Salvador;27408;2927408;Salvador;05;292740805;Salvador;22;29274080522;São Caetano
+29;Bahia;2901;Salvador;290001;Salvador;05;Metropolitana de Salvador;021;Salvador;27408;2927408;Salvador;05;292740805;Salvador;23;29274080523;São Cristovão
+29;Bahia;2901;Salvador;290001;Salvador;05;Metropolitana de Salvador;021;Salvador;27408;2927408;Salvador;05;292740805;Salvador;24;29274080524;São Pedro
+29;Bahia;2901;Salvador;290001;Salvador;05;Metropolitana de Salvador;021;Salvador;27408;2927408;Salvador;05;292740805;Salvador;25;29274080525;Sé
+29;Bahia;2901;Salvador;290001;Salvador;05;Metropolitana de Salvador;021;Salvador;27408;2927408;Salvador;05;292740805;Salvador;26;29274080526;Valéria
+29;Bahia;2901;Salvador;290001;Salvador;05;Metropolitana de Salvador;021;Salvador;27408;2927408;Salvador;05;292740805;Salvador;27;29274080527;Vitória
+31;Minas Gerais;3106;Juíz de Fora;310030;Ponte Nova;12;Zona da Mata;060;Ponte Nova;05707;3105707;Barra Longa;05;310570705;Barra Longa;06;31057070506;Primeiro Subdistrito
+31;Minas Gerais;3106;Juíz de Fora;310030;Ponte Nova;12;Zona da Mata;060;Ponte Nova;05707;3105707;Barra Longa;05;310570705;Barra Longa;07;31057070507;Segundo Subdistrito
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06200;3106200;Belo Horizonte;05;310620005;Belo Horizonte;62;31062000562;Centro-Sul
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06200;3106200;Belo Horizonte;05;310620005;Belo Horizonte;63;31062000563;Leste
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06200;3106200;Belo Horizonte;05;310620005;Belo Horizonte;64;31062000564;Nordeste
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06200;3106200;Belo Horizonte;05;310620005;Belo Horizonte;65;31062000565;Noroeste
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06200;3106200;Belo Horizonte;05;310620005;Belo Horizonte;66;31062000566;Norte
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06200;3106200;Belo Horizonte;05;310620005;Belo Horizonte;67;31062000567;Oeste
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06200;3106200;Belo Horizonte;05;310620005;Belo Horizonte;68;31062000568;Pampulha
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06200;3106200;Belo Horizonte;05;310620005;Belo Horizonte;69;31062000569;Venda Nova
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06200;3106200;Belo Horizonte;25;310620025;Barreiro;61;31062002561;Barreiro
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06200;3106200;Belo Horizonte;25;310620025;Barreiro;67;31062002567;Oeste
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06200;3106200;Belo Horizonte;60;310620060;Venda Nova;64;31062006064;Nordeste
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06200;3106200;Belo Horizonte;60;310620060;Venda Nova;66;31062006066;Norte
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06200;3106200;Belo Horizonte;60;310620060;Venda Nova;68;31062006068;Pampulha
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06200;3106200;Belo Horizonte;60;310620060;Venda Nova;69;31062006069;Venda Nova
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06705;3106705;Betim;05;310670505;Betim;01;31067050501;Sede
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06705;3106705;Betim;05;310670505;Betim;02;31067050502;Norte
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06705;3106705;Betim;05;310670505;Betim;03;31067050503;Alterosas
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06705;3106705;Betim;05;310670505;Betim;04;31067050504;PTB
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06705;3106705;Betim;05;310670505;Betim;05;31067050505;Imbiruçu
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06705;3106705;Betim;05;310670505;Betim;06;31067050506;Teresópolis
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06705;3106705;Betim;05;310670505;Betim;07;31067050507;Citrolândia
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06705;3106705;Betim;05;310670505;Betim;08;31067050508;Vianópolis
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06705;3106705;Betim;05;310670505;Betim;09;31067050509;Icaivera
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;06705;3106705;Betim;05;310670505;Betim;10;31067050510;Petrovale
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;05;311860105;Contagem;07;31186010507;Riacho
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;05;311860105;Contagem;09;31186010509;Eldorado
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;05;311860105;Contagem;10;31186010510;Cinco
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;05;311860105;Contagem;12;31186010512;Perobas
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;05;311860105;Contagem;13;31186010513;Colorado
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;05;311860105;Contagem;14;31186010514;Laguna
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;05;311860105;Contagem;15;31186010515;São Joaquim
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;05;311860105;Contagem;16;31186010516;Confisco
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;05;311860105;Contagem;17;31186010517;Ceasa
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;05;311860105;Contagem;18;31186010518;Boa Vista
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;05;311860105;Contagem;19;31186010519;Tapera
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;05;311860105;Contagem;20;31186010520;Estrela D'alva
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;05;311860105;Contagem;21;31186010521;Nacional
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;05;311860105;Contagem;22;31186010522;Bom Jesus
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;05;311860105;Contagem;23;31186010523;Sede
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;05;311860105;Contagem;24;31186010524;VM5
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;05;311860105;Contagem;25;31186010525;Bernardo Monteiro
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;05;311860105;Contagem;26;31186010526;Petrolândia
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;05;311860105;Contagem;27;31186010527;Nova Contagem
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;05;311860105;Contagem;28;31186010528;Vargem das Flores
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;10;311860110;Parque Industrial;01;31186011001;Cidade Industrial
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;10;311860110;Parque Industrial;02;31186011002;Jardim Industrial
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;10;311860110;Parque Industrial;03;31186011003;Industrial
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;10;311860110;Parque Industrial;04;31186011004;Inconfidentes
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;10;311860110;Parque Industrial;05;31186011005;Amazonas
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;10;311860110;Parque Industrial;06;31186011006;Bandeirantes
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;10;311860110;Parque Industrial;07;31186011007;Riacho
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;10;311860110;Parque Industrial;08;31186011008;Jardim Riacho
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;10;311860110;Parque Industrial;09;31186011009;Eldorado
+31;Minas Gerais;3101;Belo Horizonte;310001;Belo Horizonte;07;Metropolitana de Belo Horizonte;030;Belo Horizonte;18601;3118601;Contagem;10;311860110;Parque Industrial;11;31186011011;Água Branca
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;18908;3118908;Cordisburgo;05;311890805;Cordisburgo;01;31189080501;Região Administrativa 1
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;18908;3118908;Cordisburgo;05;311890805;Cordisburgo;02;31189080502;Região Administrativa 2
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;18908;3118908;Cordisburgo;05;311890805;Cordisburgo;03;31189080503;Região Administrativa 3
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;18908;3118908;Cordisburgo;05;311890805;Cordisburgo;04;31189080504;Região Administrativa 4
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;18908;3118908;Cordisburgo;05;311890805;Cordisburgo;05;31189080505;Região Administrativa 5
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;18908;3118908;Cordisburgo;05;311890805;Cordisburgo;06;31189080506;Região Administrativa 6
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;18908;3118908;Cordisburgo;05;311890805;Cordisburgo;07;31189080507;Região Administrativa 7
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;18908;3118908;Cordisburgo;05;311890805;Cordisburgo;08;31189080508;Região Administrativa 8
+31;Minas Gerais;3109;Pouso Alegre;310052;Itajubá;10;Sul/Sudoeste de Minas;056;Itajubá;32404;3132404;Itajubá;05;313240405;Itajubá;06;31324040506;1 Subdistrito
+31;Minas Gerais;3109;Pouso Alegre;310052;Itajubá;10;Sul/Sudoeste de Minas;056;Itajubá;32404;3132404;Itajubá;05;313240405;Itajubá;07;31324040507;Piedade
+31;Minas Gerais;3106;Juíz de Fora;310027;Juiz de Fora;12;Zona da Mata;065;Juiz de Fora;36702;3136702;Juiz de Fora;05;313670205;Juiz de Fora;06;31367020506;Unidade Territorial I
+31;Minas Gerais;3106;Juíz de Fora;310027;Juiz de Fora;12;Zona da Mata;065;Juiz de Fora;36702;3136702;Juiz de Fora;05;313670205;Juiz de Fora;07;31367020507;Unidade Territorial II
+31;Minas Gerais;3106;Juíz de Fora;310027;Juiz de Fora;12;Zona da Mata;065;Juiz de Fora;36702;3136702;Juiz de Fora;05;313670205;Juiz de Fora;08;31367020508;Unidade Territorial III
+31;Minas Gerais;3106;Juíz de Fora;310027;Juiz de Fora;12;Zona da Mata;065;Juiz de Fora;36702;3136702;Juiz de Fora;05;313670205;Juiz de Fora;09;31367020509;Unidade Territorial IV
+31;Minas Gerais;3106;Juíz de Fora;310027;Juiz de Fora;12;Zona da Mata;065;Juiz de Fora;36702;3136702;Juiz de Fora;05;313670205;Juiz de Fora;11;31367020511;Unidade Territorial V
+31;Minas Gerais;3106;Juíz de Fora;310027;Juiz de Fora;12;Zona da Mata;065;Juiz de Fora;36702;3136702;Juiz de Fora;05;313670205;Juiz de Fora;12;31367020512;Unidade Territorial VI
+31;Minas Gerais;3106;Juíz de Fora;310027;Juiz de Fora;12;Zona da Mata;065;Juiz de Fora;36702;3136702;Juiz de Fora;05;313670205;Juiz de Fora;13;31367020513;Unidade Territorial VII
+31;Minas Gerais;3106;Juíz de Fora;310027;Juiz de Fora;12;Zona da Mata;065;Juiz de Fora;36702;3136702;Juiz de Fora;05;313670205;Juiz de Fora;14;31367020514;Unidade Territorial VIII
+31;Minas Gerais;3106;Juíz de Fora;310027;Juiz de Fora;12;Zona da Mata;065;Juiz de Fora;36702;3136702;Juiz de Fora;05;313670205;Juiz de Fora;16;31367020516;Unidade Territorial IX
+31;Minas Gerais;3106;Juíz de Fora;310027;Juiz de Fora;12;Zona da Mata;065;Juiz de Fora;36702;3136702;Juiz de Fora;05;313670205;Juiz de Fora;17;31367020517;Unidade Territorial X
+31;Minas Gerais;3106;Juíz de Fora;310027;Juiz de Fora;12;Zona da Mata;065;Juiz de Fora;36702;3136702;Juiz de Fora;05;313670205;Juiz de Fora;18;31367020518;Unidade Territorial XI
+31;Minas Gerais;3106;Juíz de Fora;310027;Juiz de Fora;12;Zona da Mata;065;Juiz de Fora;36702;3136702;Juiz de Fora;05;313670205;Juiz de Fora;19;31367020519;Unidade Territorial XII
+31;Minas Gerais;3106;Juíz de Fora;310027;Juiz de Fora;12;Zona da Mata;065;Juiz de Fora;36702;3136702;Juiz de Fora;05;313670205;Juiz de Fora;21;31367020521;Unidade Territorial XIII
+31;Minas Gerais;3106;Juíz de Fora;310027;Juiz de Fora;12;Zona da Mata;065;Juiz de Fora;36702;3136702;Juiz de Fora;05;313670205;Juiz de Fora;22;31367020522;Unidade Territorial XIV
+31;Minas Gerais;3106;Juíz de Fora;310027;Juiz de Fora;12;Zona da Mata;065;Juiz de Fora;36702;3136702;Juiz de Fora;05;313670205;Juiz de Fora;23;31367020523;Unidade Territorial XV
+31;Minas Gerais;3106;Juíz de Fora;310027;Juiz de Fora;12;Zona da Mata;065;Juiz de Fora;36702;3136702;Juiz de Fora;05;313670205;Juiz de Fora;24;31367020524;Unidade Territorial XVI
+31;Minas Gerais;3106;Juíz de Fora;310030;Ponte Nova;12;Zona da Mata;060;Ponte Nova;52105;3152105;Ponte Nova;05;315210505;Ponte Nova;06;31521050506;1 Subdistrito
+31;Minas Gerais;3106;Juíz de Fora;310030;Ponte Nova;12;Zona da Mata;060;Ponte Nova;52105;3152105;Ponte Nova;05;315210505;Ponte Nova;07;31521050507;2 Sub-Distrito
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;67202;3167202;Sete Lagoas;05;316720205;Sete Lagoas;01;31672020501;I Região Administrativa
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;67202;3167202;Sete Lagoas;05;316720205;Sete Lagoas;02;31672020502;II Região Administrativa
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;67202;3167202;Sete Lagoas;05;316720205;Sete Lagoas;03;31672020503;III Região Administrativa
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;67202;3167202;Sete Lagoas;05;316720205;Sete Lagoas;04;31672020504;IV Região Administrativa
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;67202;3167202;Sete Lagoas;05;316720205;Sete Lagoas;05;31672020505;V Região Administrativa
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;67202;3167202;Sete Lagoas;05;316720205;Sete Lagoas;06;31672020506;VI Região Administrativa
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;67202;3167202;Sete Lagoas;05;316720205;Sete Lagoas;07;31672020507;VII Região Administrativa
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;67202;3167202;Sete Lagoas;05;316720205;Sete Lagoas;08;31672020508;VIII Região Administrativa
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;67202;3167202;Sete Lagoas;05;316720205;Sete Lagoas;09;31672020509;IX Região Administrativa
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;67202;3167202;Sete Lagoas;05;316720205;Sete Lagoas;10;31672020510;X Região Administrativa
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;67202;3167202;Sete Lagoas;05;316720205;Sete Lagoas;11;31672020511;XI Região Administrativa
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;67202;3167202;Sete Lagoas;05;316720205;Sete Lagoas;12;31672020512;XII Região Administrativa
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;67202;3167202;Sete Lagoas;05;316720205;Sete Lagoas;13;31672020513;XIII Região Administrativa
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;67202;3167202;Sete Lagoas;05;316720205;Sete Lagoas;14;31672020514;XIV Região Administrativa
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;67202;3167202;Sete Lagoas;05;316720205;Sete Lagoas;15;31672020515;XV Região Administrativa
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;67202;3167202;Sete Lagoas;05;316720205;Sete Lagoas;16;31672020516;XVI Região Administrativa
+31;Minas Gerais;3101;Belo Horizonte;310002;Sete Lagoas;07;Metropolitana de Belo Horizonte;027;Sete Lagoas;67202;3167202;Sete Lagoas;05;316720205;Sete Lagoas;17;31672020517;XVII Região Administrativa
+32;Espírito Santo;3201;Vitória;320001;Vitória;03;Central Espírito-santense;009;Vitória;05200;3205200;Vila Velha;05;320520005;Vila Velha;06;32052000506;Centro
+32;Espírito Santo;3201;Vitória;320001;Vitória;03;Central Espírito-santense;009;Vitória;05200;3205200;Vila Velha;05;320520005;Vila Velha;07;32052000507;Grande Aribiri
+32;Espírito Santo;3201;Vitória;320001;Vitória;03;Central Espírito-santense;009;Vitória;05200;3205200;Vila Velha;05;320520005;Vila Velha;09;32052000509;Grande Ibes
+32;Espírito Santo;3201;Vitória;320001;Vitória;03;Central Espírito-santense;009;Vitória;05200;3205200;Vila Velha;10;320520010;Argolas;07;32052001007;Grande Aribiri
+32;Espírito Santo;3201;Vitória;320001;Vitória;03;Central Espírito-santense;009;Vitória;05200;3205200;Vila Velha;10;320520010;Argolas;08;32052001008;Grande Cobilândia
+32;Espírito Santo;3201;Vitória;320001;Vitória;03;Central Espírito-santense;009;Vitória;05200;3205200;Vila Velha;15;320520015;Ibes;07;32052001507;Grande Aribiri
+32;Espírito Santo;3201;Vitória;320001;Vitória;03;Central Espírito-santense;009;Vitória;05200;3205200;Vila Velha;15;320520015;Ibes;08;32052001508;Grande Cobilândia
+32;Espírito Santo;3201;Vitória;320001;Vitória;03;Central Espírito-santense;009;Vitória;05200;3205200;Vila Velha;15;320520015;Ibes;09;32052001509;Grande Ibes
+32;Espírito Santo;3201;Vitória;320001;Vitória;03;Central Espírito-santense;009;Vitória;05200;3205200;Vila Velha;20;320520020;Jucu;10;32052002010;Grande Jucu
+32;Espírito Santo;3201;Vitória;320001;Vitória;03;Central Espírito-santense;009;Vitória;05200;3205200;Vila Velha;25;320520025;São Torquato;07;32052002507;Grande Aribiri
+32;Espírito Santo;3201;Vitória;320001;Vitória;03;Central Espírito-santense;009;Vitória;05200;3205200;Vila Velha;25;320520025;São Torquato;08;32052002508;Grande Cobilândia
+32;Espírito Santo;3201;Vitória;320001;Vitória;03;Central Espírito-santense;009;Vitória;05309;3205309;Vitória;05;320530905;Vitória;06;32053090506;Região Administrativa I - Centro
+32;Espírito Santo;3201;Vitória;320001;Vitória;03;Central Espírito-santense;009;Vitória;05309;3205309;Vitória;05;320530905;Vitória;07;32053090507;Região Administrativa II - Santo Antônio
+32;Espírito Santo;3201;Vitória;320001;Vitória;03;Central Espírito-santense;009;Vitória;05309;3205309;Vitória;05;320530905;Vitória;08;32053090508;Região Administrativa III - Jucutuquara
+32;Espírito Santo;3201;Vitória;320001;Vitória;03;Central Espírito-santense;009;Vitória;05309;3205309;Vitória;05;320530905;Vitória;09;32053090509;Região Administrativa IV - Maruípe
+32;Espírito Santo;3201;Vitória;320001;Vitória;03;Central Espírito-santense;009;Vitória;05309;3205309;Vitória;05;320530905;Vitória;10;32053090510;Região Administrativa V - Praia do Canto
+32;Espírito Santo;3201;Vitória;320001;Vitória;03;Central Espírito-santense;009;Vitória;05309;3205309;Vitória;05;320530905;Vitória;12;32053090512;Região Administrativa VII - São Pedro
+32;Espírito Santo;3201;Vitória;320001;Vitória;03;Central Espírito-santense;009;Vitória;05309;3205309;Vitória;10;320530910;Goiabeiras;13;32053091013;Região Administrativa VI - Goiabeiras
+32;Espírito Santo;3201;Vitória;320001;Vitória;03;Central Espírito-santense;009;Vitória;05309;3205309;Vitória;10;320530910;Goiabeiras;14;32053091014;Região Administrativa VIII - Jardim Camburi
+32;Espírito Santo;3201;Vitória;320001;Vitória;03;Central Espírito-santense;009;Vitória;05309;3205309;Vitória;10;320530910;Goiabeiras;15;32053091015;Região Administrativa IX - Jardim da Penha
+33;Rio de Janeiro;3302;Volta Redonda - Barra Mansa;330004;Volta Redonda - Barra Mansa;05;Sul Fluminense;011;Vale do Paraíba Fluminense;00407;3300407;Barra Mansa;05;330040705;Barra Mansa;01;33004070501;Região Administrativa 01 - Centro
+33;Rio de Janeiro;3302;Volta Redonda - Barra Mansa;330004;Volta Redonda - Barra Mansa;05;Sul Fluminense;011;Vale do Paraíba Fluminense;00407;3300407;Barra Mansa;05;330040705;Barra Mansa;02;33004070502;Região Administrativa 02 - Vista Alegre
+33;Rio de Janeiro;3302;Volta Redonda - Barra Mansa;330004;Volta Redonda - Barra Mansa;05;Sul Fluminense;011;Vale do Paraíba Fluminense;00407;3300407;Barra Mansa;05;330040705;Barra Mansa;03;33004070503;Região Administrativa 03 - Vila Nova
+33;Rio de Janeiro;3302;Volta Redonda - Barra Mansa;330004;Volta Redonda - Barra Mansa;05;Sul Fluminense;011;Vale do Paraíba Fluminense;00407;3300407;Barra Mansa;05;330040705;Barra Mansa;04;33004070504;Região Administrativa 04 - Ano Bom
+33;Rio de Janeiro;3302;Volta Redonda - Barra Mansa;330004;Volta Redonda - Barra Mansa;05;Sul Fluminense;011;Vale do Paraíba Fluminense;00407;3300407;Barra Mansa;05;330040705;Barra Mansa;05;33004070505;Região Administrativa 05 - Vila Elmira
+33;Rio de Janeiro;3302;Volta Redonda - Barra Mansa;330004;Volta Redonda - Barra Mansa;05;Sul Fluminense;011;Vale do Paraíba Fluminense;00407;3300407;Barra Mansa;05;330040705;Barra Mansa;06;33004070506;Região Administrativa 06 - Nove de Abril
+33;Rio de Janeiro;3302;Volta Redonda - Barra Mansa;330004;Volta Redonda - Barra Mansa;05;Sul Fluminense;011;Vale do Paraíba Fluminense;00407;3300407;Barra Mansa;05;330040705;Barra Mansa;07;33004070507;Região Administrativa 07 - Boa Vista
+33;Rio de Janeiro;3302;Volta Redonda - Barra Mansa;330004;Volta Redonda - Barra Mansa;05;Sul Fluminense;011;Vale do Paraíba Fluminense;00407;3300407;Barra Mansa;05;330040705;Barra Mansa;08;33004070508;Região Administrativa 08 - Boa Sorte
+33;Rio de Janeiro;3302;Volta Redonda - Barra Mansa;330004;Volta Redonda - Barra Mansa;05;Sul Fluminense;011;Vale do Paraíba Fluminense;00407;3300407;Barra Mansa;05;330040705;Barra Mansa;09;33004070509;Região Administrativa 09 - Rozelândia
+33;Rio de Janeiro;3302;Volta Redonda - Barra Mansa;330004;Volta Redonda - Barra Mansa;05;Sul Fluminense;011;Vale do Paraíba Fluminense;00407;3300407;Barra Mansa;05;330040705;Barra Mansa;10;33004070510;Região Administrativa 10 - Santa Clara
+33;Rio de Janeiro;3302;Volta Redonda - Barra Mansa;330004;Volta Redonda - Barra Mansa;05;Sul Fluminense;011;Vale do Paraíba Fluminense;00407;3300407;Barra Mansa;05;330040705;Barra Mansa;11;33004070511;Região Administrativa 11 - Vila Independência
+33;Rio de Janeiro;3302;Volta Redonda - Barra Mansa;330004;Volta Redonda - Barra Mansa;05;Sul Fluminense;011;Vale do Paraíba Fluminense;00407;3300407;Barra Mansa;05;330040705;Barra Mansa;12;33004070512;Região Administrativa 12 - Siderlândia
+33;Rio de Janeiro;3302;Volta Redonda - Barra Mansa;330004;Volta Redonda - Barra Mansa;05;Sul Fluminense;011;Vale do Paraíba Fluminense;00407;3300407;Barra Mansa;05;330040705;Barra Mansa;13;33004070513;Região Administrativa 13 - Colônia Santo Antônio
+33;Rio de Janeiro;3302;Volta Redonda - Barra Mansa;330004;Volta Redonda - Barra Mansa;05;Sul Fluminense;011;Vale do Paraíba Fluminense;00407;3300407;Barra Mansa;05;330040705;Barra Mansa;14;33004070514;Região Administrativa 14 - Saudade
+33;Rio de Janeiro;3302;Volta Redonda - Barra Mansa;330004;Volta Redonda - Barra Mansa;05;Sul Fluminense;011;Vale do Paraíba Fluminense;00407;3300407;Barra Mansa;09;330040709;Antônio Rocha;50;33004070950;Região Administrativa 50 - Antônio Rocha
+33;Rio de Janeiro;3302;Volta Redonda - Barra Mansa;330004;Volta Redonda - Barra Mansa;05;Sul Fluminense;011;Vale do Paraíba Fluminense;00407;3300407;Barra Mansa;15;330040715;Floriano;20;33004071520;Região Administrativa 20 - Floriano
+33;Rio de Janeiro;3302;Volta Redonda - Barra Mansa;330004;Volta Redonda - Barra Mansa;05;Sul Fluminense;011;Vale do Paraíba Fluminense;00407;3300407;Barra Mansa;20;330040720;Nossa Senhora do Amparo;40;33004072040;Região Administrativa 40 - Nossa Senhora do Amparo
+33;Rio de Janeiro;3302;Volta Redonda - Barra Mansa;330004;Volta Redonda - Barra Mansa;05;Sul Fluminense;011;Vale do Paraíba Fluminense;00407;3300407;Barra Mansa;30;330040730;Rialto;30;33004073030;Região Administrativa 30 - Rialto
+33;Rio de Janeiro;3302;Volta Redonda - Barra Mansa;330004;Volta Redonda - Barra Mansa;05;Sul Fluminense;011;Vale do Paraíba Fluminense;00407;3300407;Barra Mansa;40;330040740;Santa Rita de Cássia;60;33004074060;Região Administrativa 60 - Santa Rita de Cássia
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;00456;3300456;Belford Roxo;05;330045605;Belford Roxo;01;33004560501;Areia Branca
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;00456;3300456;Belford Roxo;05;330045605;Belford Roxo;02;33004560502;Nova Aurora
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;00456;3300456;Belford Roxo;05;330045605;Belford Roxo;03;33004560503;Jardim Redentor
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;00456;3300456;Belford Roxo;05;330045605;Belford Roxo;04;33004560504;Parque São José
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;00456;3300456;Belford Roxo;05;330045605;Belford Roxo;05;33004560505;Lote XV
+33;Rio de Janeiro;3304;Campos dos Goytacazes;330010;Campos dos Goytacazes;02;Norte Fluminense;003;Campos dos Goytacazes;01009;3301009;Campos dos Goytacazes;05;330100905;Campos dos Goytacazes;06;33010090506;Primeiro Subdistrito
+33;Rio de Janeiro;3304;Campos dos Goytacazes;330010;Campos dos Goytacazes;02;Norte Fluminense;003;Campos dos Goytacazes;01009;3301009;Campos dos Goytacazes;05;330100905;Campos dos Goytacazes;07;33010090507;Segundo Subdistrito
+33;Rio de Janeiro;3304;Campos dos Goytacazes;330010;Campos dos Goytacazes;02;Norte Fluminense;003;Campos dos Goytacazes;01009;3301009;Campos dos Goytacazes;05;330100905;Campos dos Goytacazes;08;33010090508;Terceiro Subdistrito
+33;Rio de Janeiro;3304;Campos dos Goytacazes;330010;Campos dos Goytacazes;02;Norte Fluminense;003;Campos dos Goytacazes;01009;3301009;Campos dos Goytacazes;05;330100905;Campos dos Goytacazes;09;33010090509;Quarto Subdistrito
+33;Rio de Janeiro;3305;Macaé - Rio das Ostras - Cabo Frio;330014;Macaé - Rio das Ostras;02;Norte Fluminense;004;Macaé;00936;3300936;Carapebus;05;330093605;Carapebus;01;33009360501;Primeira Região Administrativa (Centro)
+33;Rio de Janeiro;3305;Macaé - Rio das Ostras - Cabo Frio;330014;Macaé - Rio das Ostras;02;Norte Fluminense;004;Macaé;00936;3300936;Carapebus;05;330093605;Carapebus;02;33009360502;Segunda Região Administrativa (Ubás)
+33;Rio de Janeiro;3305;Macaé - Rio das Ostras - Cabo Frio;330014;Macaé - Rio das Ostras;02;Norte Fluminense;004;Macaé;00936;3300936;Carapebus;05;330093605;Carapebus;03;33009360503;Terceira Região Administrativa (Rodagem)
+33;Rio de Janeiro;3305;Macaé - Rio das Ostras - Cabo Frio;330014;Macaé - Rio das Ostras;02;Norte Fluminense;004;Macaé;00936;3300936;Carapebus;05;330093605;Carapebus;04;33009360504;Quarta Região Administrativa (Praia de Carapebus)
+33;Rio de Janeiro;3305;Macaé - Rio das Ostras - Cabo Frio;330013;Cabo Frio;04;Baixadas;010;Lagos;01876;3301876;Iguaba Grande;05;330187605;Iguaba Grande;06;33018760506;Sub-região da Orla
+33;Rio de Janeiro;3305;Macaé - Rio das Ostras - Cabo Frio;330013;Cabo Frio;04;Baixadas;010;Lagos;01876;3301876;Iguaba Grande;05;330187605;Iguaba Grande;07;33018760507;Sub-região do Arrastão das Pedras
+33;Rio de Janeiro;3305;Macaé - Rio das Ostras - Cabo Frio;330013;Cabo Frio;04;Baixadas;010;Lagos;01876;3301876;Iguaba Grande;05;330187605;Iguaba Grande;08;33018760508;Sub-região de Sapeatiba
+33;Rio de Janeiro;3305;Macaé - Rio das Ostras - Cabo Frio;330013;Cabo Frio;04;Baixadas;010;Lagos;01876;3301876;Iguaba Grande;05;330187605;Iguaba Grande;09;33018760509;Sub-região Área da Lagoa
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;02270;3302270;Japeri;05;330227005;Japeri;01;33022700501;Japeri
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;02270;3302270;Japeri;05;330227005;Japeri;02;33022700502;Engenheiro Pedreira
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;02270;3302270;Japeri;05;330227005;Japeri;03;33022700503;Marajoara
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;02270;3302270;Japeri;05;330227005;Japeri;04;33022700504;Rio D'Ouro
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;02270;3302270;Japeri;05;330227005;Japeri;05;33022700505;Pedra Lisa
+33;Rio de Janeiro;3305;Macaé - Rio das Ostras - Cabo Frio;330014;Macaé - Rio das Ostras;02;Norte Fluminense;004;Macaé;02403;3302403;Macaé;05;330240305;Macaé;01;33024030501;Barra de Macaé
+33;Rio de Janeiro;3305;Macaé - Rio das Ostras - Cabo Frio;330014;Macaé - Rio das Ostras;02;Norte Fluminense;004;Macaé;02403;3302403;Macaé;05;330240305;Macaé;02;33024030502;Aeroporto
+33;Rio de Janeiro;3305;Macaé - Rio das Ostras - Cabo Frio;330014;Macaé - Rio das Ostras;02;Norte Fluminense;004;Macaé;02403;3302403;Macaé;05;330240305;Macaé;03;33024030503;Cabiúnas
+33;Rio de Janeiro;3305;Macaé - Rio das Ostras - Cabo Frio;330014;Macaé - Rio das Ostras;02;Norte Fluminense;004;Macaé;02403;3302403;Macaé;05;330240305;Macaé;04;33024030504;Imboassica
+33;Rio de Janeiro;3305;Macaé - Rio das Ostras - Cabo Frio;330014;Macaé - Rio das Ostras;02;Norte Fluminense;004;Macaé;02403;3302403;Macaé;05;330240305;Macaé;05;33024030505;Centro
+33;Rio de Janeiro;3305;Macaé - Rio das Ostras - Cabo Frio;330014;Macaé - Rio das Ostras;02;Norte Fluminense;004;Macaé;02403;3302403;Macaé;05;330240305;Macaé;06;33024030506;Nova Cidade
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;03500;3303500;Nova Iguaçu;05;330350005;Nova Iguaçu;10;33035000510;Unidade Regional de Governo Centro - URG I
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;03500;3303500;Nova Iguaçu;05;330350005;Nova Iguaçu;11;33035000511;Unidade Regional de Governo da Posse - URG II
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;03500;3303500;Nova Iguaçu;05;330350005;Nova Iguaçu;12;33035000512;Unidade Regional de Governo de Comendador Soares - URG III
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;03500;3303500;Nova Iguaçu;05;330350005;Nova Iguaçu;16;33035000516;Unidade Regional de Governo de Cabuçu - URG VII
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;03500;3303500;Nova Iguaçu;05;330350005;Nova Iguaçu;17;33035000517;Unidade Regional de Governo de Km 32 - URG VIII
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;03500;3303500;Nova Iguaçu;05;330350005;Nova Iguaçu;18;33035000518;Unidade Regional de Governo de Austim - URG IX
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;03500;3303500;Nova Iguaçu;05;330350005;Nova Iguaçu;19;33035000519;Unidade Regional de Governo de Vila de Cava - URG X
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;03500;3303500;Nova Iguaçu;05;330350005;Nova Iguaçu;20;33035000520;Unidade Regional de Governo de Miguel Couto - URG XI
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;03500;3303500;Nova Iguaçu;05;330350005;Nova Iguaçu;21;33035000521;U.R.G. de Tinguá,Adrianópolis,Rio D'Ouro e Jaceruba-URG XII
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04144;3304144;Queimados;05;330414405;Queimados;01;33041440501;Centro
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04144;3304144;Queimados;05;330414405;Queimados;02;33041440502;Nordeste
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04144;3304144;Queimados;05;330414405;Queimados;03;33041440503;Leste
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04144;3304144;Queimados;05;330414405;Queimados;04;33041440504;Sul
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04144;3304144;Queimados;05;330414405;Queimados;05;33041440505;Oeste
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04144;3304144;Queimados;05;330414405;Queimados;06;33041440506;Norte
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04144;3304144;Queimados;05;330414405;Queimados;07;33041440507;Industrial
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;06;33045570506;Portuária
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;07;33045570507;Centro
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;08;33045570508;Rio Comprido
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;09;33045570509;Botafogo
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;10;33045570510;Copacabana
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;11;33045570511;Lagoa
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;12;33045570512;São Cristovão
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;13;33045570513;Tijuca
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;14;33045570514;Vila Isabel
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;15;33045570515;Ramos
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;16;33045570516;Penha
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;17;33045570517;Méier
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;19;33045570519;Irajá
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;20;33045570520;Madureira
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;21;33045570521;Jacarepaguá
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;22;33045570522;Bangu
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;23;33045570523;Campo Grande
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;24;33045570524;Santa Cruz
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;25;33045570525;Ilha do Governador
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;26;33045570526;Ilha de Paquetá
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;27;33045570527;Anchieta
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;28;33045570528;Santa Teresa
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;29;33045570529;Barra da Tijuca
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;30;33045570530;Pavuna
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;31;33045570531;Guaratiba
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;32;33045570532;Inhaúma
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;33;33045570533;Rocinha
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;34;33045570534;Jacarezinho
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;35;33045570535;Complexo do Alemão
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;36;33045570536;Maré
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;37;33045570537;Realengo
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;38;33045570538;Cidade de Deus
+33;Rio de Janeiro;3301;Rio de Janeiro;330001;Rio de Janeiro;06;Metropolitana do Rio de Janeiro;018;Rio de Janeiro;04557;3304557;Rio de Janeiro;05;330455705;Rio de Janeiro;39;33045570539;Vigário Geral
+33;Rio de Janeiro;3305;Macaé - Rio das Ostras - Cabo Frio;330013;Cabo Frio;04;Baixadas;010;Lagos;05208;3305208;São Pedro da Aldeia;05;330520805;São Pedro da Aldeia;06;33052080506;Região Sul
+33;Rio de Janeiro;3305;Macaé - Rio das Ostras - Cabo Frio;330013;Cabo Frio;04;Baixadas;010;Lagos;05208;3305208;São Pedro da Aldeia;05;330520805;São Pedro da Aldeia;07;33052080507;Região Norte
+33;Rio de Janeiro;3305;Macaé - Rio das Ostras - Cabo Frio;330013;Cabo Frio;04;Baixadas;010;Lagos;05208;3305208;São Pedro da Aldeia;05;330520805;São Pedro da Aldeia;08;33052080508;Região Oeste
+33;Rio de Janeiro;3305;Macaé - Rio das Ostras - Cabo Frio;330013;Cabo Frio;04;Baixadas;010;Lagos;05208;3305208;São Pedro da Aldeia;05;330520805;São Pedro da Aldeia;09;33052080509;Região Leste
+41;Paraná;4104;Maringá;410015;Campo Mourão;02;Centro Ocidental Paranaense;005;Campo Mourão;04303;4104303;Campo Mourão;05;410430305;Campo Mourão;01;41043030501;Zona 1
+41;Paraná;4104;Maringá;410015;Campo Mourão;02;Centro Ocidental Paranaense;005;Campo Mourão;04303;4104303;Campo Mourão;05;410430305;Campo Mourão;02;41043030502;Zona 2
+41;Paraná;4104;Maringá;410015;Campo Mourão;02;Centro Ocidental Paranaense;005;Campo Mourão;04303;4104303;Campo Mourão;05;410430305;Campo Mourão;03;41043030503;Zona 3
+41;Paraná;4104;Maringá;410015;Campo Mourão;02;Centro Ocidental Paranaense;005;Campo Mourão;04303;4104303;Campo Mourão;05;410430305;Campo Mourão;04;41043030504;Zona 4
+41;Paraná;4104;Maringá;410015;Campo Mourão;02;Centro Ocidental Paranaense;005;Campo Mourão;04303;4104303;Campo Mourão;05;410430305;Campo Mourão;05;41043030505;Zona 5
+41;Paraná;4101;Curitiba;410001;Curitiba;10;Metropolitana de Curitiba;037;Curitiba;06902;4106902;Curitiba;05;410690205;Curitiba;01;41069020501;Administração Regional da Matriz
+41;Paraná;4101;Curitiba;410001;Curitiba;10;Metropolitana de Curitiba;037;Curitiba;06902;4106902;Curitiba;05;410690205;Curitiba;02;41069020502;Administração Regional do Boqueirão
+41;Paraná;4101;Curitiba;410001;Curitiba;10;Metropolitana de Curitiba;037;Curitiba;06902;4106902;Curitiba;05;410690205;Curitiba;03;41069020503;Administração Regional do Cajuru
+41;Paraná;4101;Curitiba;410001;Curitiba;10;Metropolitana de Curitiba;037;Curitiba;06902;4106902;Curitiba;05;410690205;Curitiba;04;41069020504;Administração Regional da Boa Vista
+41;Paraná;4101;Curitiba;410001;Curitiba;10;Metropolitana de Curitiba;037;Curitiba;06902;4106902;Curitiba;05;410690205;Curitiba;05;41069020505;Administração Regional de Santa Felicidade
+41;Paraná;4101;Curitiba;410001;Curitiba;10;Metropolitana de Curitiba;037;Curitiba;06902;4106902;Curitiba;05;410690205;Curitiba;06;41069020506;Administração Regional do Portão
+41;Paraná;4101;Curitiba;410001;Curitiba;10;Metropolitana de Curitiba;037;Curitiba;06902;4106902;Curitiba;05;410690205;Curitiba;07;41069020507;Administração Regional Pinheirinho
+41;Paraná;4101;Curitiba;410001;Curitiba;10;Metropolitana de Curitiba;037;Curitiba;06902;4106902;Curitiba;05;410690205;Curitiba;08;41069020508;Administração Regional do Bairro Novo
+41;Paraná;4101;Curitiba;410001;Curitiba;10;Metropolitana de Curitiba;037;Curitiba;06902;4106902;Curitiba;05;410690205;Curitiba;09;41069020509;Administração Regional da Cidade Industrial de Curitiba
+41;Paraná;4101;Curitiba;410001;Curitiba;10;Metropolitana de Curitiba;037;Curitiba;06902;4106902;Curitiba;05;410690205;Curitiba;10;41069020510;Administração Regional do Tatuquara
+41;Paraná;4105;Londrina;410021;Londrina;03;Norte Central Paranaense;011;Londrina;13700;4113700;Londrina;05;411370005;Londrina;01;41137000501;Centro
+41;Paraná;4105;Londrina;410021;Londrina;03;Norte Central Paranaense;011;Londrina;13700;4113700;Londrina;05;411370005;Londrina;02;41137000502;Região Norte
+41;Paraná;4105;Londrina;410021;Londrina;03;Norte Central Paranaense;011;Londrina;13700;4113700;Londrina;05;411370005;Londrina;03;41137000503;Região Oeste
+41;Paraná;4105;Londrina;410021;Londrina;03;Norte Central Paranaense;011;Londrina;13700;4113700;Londrina;05;411370005;Londrina;04;41137000504;Região Leste
+41;Paraná;4105;Londrina;410021;Londrina;03;Norte Central Paranaense;011;Londrina;13700;4113700;Londrina;05;411370005;Londrina;05;41137000505;Região Sul
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;01;41152000501;Zona 1
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;02;41152000502;Zona 2
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;03;41152000503;Zona 3
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;04;41152000504;Zona 4
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;05;41152000505;Zona 5
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;06;41152000506;Zona 6
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;07;41152000507;Zona 7
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;08;41152000508;Zona 8
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;09;41152000509;Zona 9
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;10;41152000510;Zona 10
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;11;41152000511;Zona 11
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;12;41152000512;Zona 12
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;13;41152000513;Zona 13
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;14;41152000514;Zona 14
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;15;41152000515;Zona 15
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;17;41152000517;Zona 17
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;18;41152000518;Zona 18
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;19;41152000519;Zona 19
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;20;41152000520;Zona 20
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;21;41152000521;Zona 21
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;22;41152000522;Zona 22
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;23;41152000523;Zona 23
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;24;41152000524;Zona 24
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;25;41152000525;Zona 25
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;26;41152000526;Zona 26
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;27;41152000527;Zona 27
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;28;41152000528;Zona 28
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;29;41152000529;Zona 29
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;30;41152000530;Zona 30
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;31;41152000531;Zona 31
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;35;41152000535;Zona 35
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;36;41152000536;Zona 36
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;37;41152000537;Zona 37
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;38;41152000538;Zona 38
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;39;41152000539;Zona 39
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;40;41152000540;Zona 40
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;41;41152000541;Zona 41
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;42;41152000542;Zona 42
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;43;41152000543;Zona 43
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;44;41152000544;Zona 44
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;45;41152000545;Zona 45
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;46;41152000546;Zona 46
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;47;41152000547;Zona 47
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;48;41152000548;Zona 48
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;05;411520005;Maringá;50;41152000550;Zona Central
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;10;411520010;Floriano;34;41152001034;Zona 34
+41;Paraná;4104;Maringá;410014;Maringá;03;Norte Central Paranaense;009;Maringá;15200;4115200;Maringá;15;411520015;Iguatemi;33;41152001533;Zona 33
+43;Rio Grande do Sul;4304;Uruguaiana;430015;Uruguaiana;06;Sudoeste Rio-grandense;029;Campanha Ocidental;00406;4300406;Alegrete;05;430040605;Alegrete;06;43004060506;Zona Central
+43;Rio Grande do Sul;4304;Uruguaiana;430015;Uruguaiana;06;Sudoeste Rio-grandense;029;Campanha Ocidental;00406;4300406;Alegrete;05;430040605;Alegrete;07;43004060507;Zona da Coxilha ou Cidade Alta
+43;Rio Grande do Sul;4304;Uruguaiana;430015;Uruguaiana;06;Sudoeste Rio-grandense;029;Campanha Ocidental;00406;4300406;Alegrete;05;430040605;Alegrete;08;43004060508;Zona Norte
+43;Rio Grande do Sul;4304;Uruguaiana;430015;Uruguaiana;06;Sudoeste Rio-grandense;029;Campanha Ocidental;00406;4300406;Alegrete;05;430040605;Alegrete;09;43004060509;Zona Sul
+43;Rio Grande do Sul;4304;Uruguaiana;430015;Uruguaiana;06;Sudoeste Rio-grandense;029;Campanha Ocidental;00406;4300406;Alegrete;05;430040605;Alegrete;10;43004060510;Zona Leste
+43;Rio Grande do Sul;4304;Uruguaiana;430015;Uruguaiana;06;Sudoeste Rio-grandense;029;Campanha Ocidental;00406;4300406;Alegrete;05;430040605;Alegrete;11;43004060511;Zona Oeste
+43;Rio Grande do Sul;4304;Uruguaiana;430015;Uruguaiana;06;Sudoeste Rio-grandense;029;Campanha Ocidental;00406;4300406;Alegrete;05;430040605;Alegrete;12;43004060512;Alegrete
+43;Rio Grande do Sul;4304;Uruguaiana;430015;Uruguaiana;06;Sudoeste Rio-grandense;029;Campanha Ocidental;00406;4300406;Alegrete;05;430040605;Alegrete;13;43004060513;Catimbaú
+43;Rio Grande do Sul;4304;Uruguaiana;430015;Uruguaiana;06;Sudoeste Rio-grandense;029;Campanha Ocidental;00406;4300406;Alegrete;05;430040605;Alegrete;14;43004060514;Durasnal
+43;Rio Grande do Sul;4304;Uruguaiana;430015;Uruguaiana;06;Sudoeste Rio-grandense;029;Campanha Ocidental;00406;4300406;Alegrete;05;430040605;Alegrete;15;43004060515;Guassu-Boi
+43;Rio Grande do Sul;4304;Uruguaiana;430015;Uruguaiana;06;Sudoeste Rio-grandense;029;Campanha Ocidental;00406;4300406;Alegrete;05;430040605;Alegrete;16;43004060516;Inhanduí
+43;Rio Grande do Sul;4304;Uruguaiana;430015;Uruguaiana;06;Sudoeste Rio-grandense;029;Campanha Ocidental;00406;4300406;Alegrete;05;430040605;Alegrete;17;43004060517;Itaporó
+43;Rio Grande do Sul;4304;Uruguaiana;430015;Uruguaiana;06;Sudoeste Rio-grandense;029;Campanha Ocidental;00406;4300406;Alegrete;05;430040605;Alegrete;18;43004060518;Rincão de São Miguel
+43;Rio Grande do Sul;4304;Uruguaiana;430015;Uruguaiana;06;Sudoeste Rio-grandense;029;Campanha Ocidental;00406;4300406;Alegrete;05;430040605;Alegrete;19;43004060519;Vasco Alves
+43;Rio Grande do Sul;4301;Porto Alegre;430001;Porto Alegre;05;Metropolitana de Porto Alegre;026;Porto Alegre;00604;4300604;Alvorada;05;430060405;Alvorada;01;43006040501;MZ1- Centro
+43;Rio Grande do Sul;4301;Porto Alegre;430001;Porto Alegre;05;Metropolitana de Porto Alegre;026;Porto Alegre;00604;4300604;Alvorada;05;430060405;Alvorada;02;43006040502;MZ2- Americana / Sumaré
+43;Rio Grande do Sul;4301;Porto Alegre;430001;Porto Alegre;05;Metropolitana de Porto Alegre;026;Porto Alegre;00604;4300604;Alvorada;05;430060405;Alvorada;03;43006040503;MZ3- Bela Vista
+43;Rio Grande do Sul;4301;Porto Alegre;430001;Porto Alegre;05;Metropolitana de Porto Alegre;026;Porto Alegre;00604;4300604;Alvorada;05;430060405;Alvorada;04;43006040504;MZ4- Intersul
+43;Rio Grande do Sul;4301;Porto Alegre;430001;Porto Alegre;05;Metropolitana de Porto Alegre;026;Porto Alegre;00604;4300604;Alvorada;05;430060405;Alvorada;05;43006040505;MZ5- Algarve
+43;Rio Grande do Sul;4301;Porto Alegre;430001;Porto Alegre;05;Metropolitana de Porto Alegre;026;Porto Alegre;00604;4300604;Alvorada;05;430060405;Alvorada;06;43006040506;MZ6- Aparecida
+43;Rio Grande do Sul;4301;Porto Alegre;430001;Porto Alegre;05;Metropolitana de Porto Alegre;026;Porto Alegre;00604;4300604;Alvorada;05;430060405;Alvorada;07;43006040507;MZ7- Cocão
+43;Rio Grande do Sul;4301;Porto Alegre;430001;Porto Alegre;05;Metropolitana de Porto Alegre;026;Porto Alegre;00604;4300604;Alvorada;05;430060405;Alvorada;08;43006040508;MZ8- Piratini
+43;Rio Grande do Sul;4301;Porto Alegre;430001;Porto Alegre;05;Metropolitana de Porto Alegre;026;Porto Alegre;00604;4300604;Alvorada;05;430060405;Alvorada;09;43006040509;MZ9- Formosa / Maria Regina
+43;Rio Grande do Sul;4301;Porto Alegre;430001;Porto Alegre;05;Metropolitana de Porto Alegre;026;Porto Alegre;00604;4300604;Alvorada;05;430060405;Alvorada;10;43006040510;MZ10- Umbu
+43;Rio Grande do Sul;4301;Porto Alegre;430001;Porto Alegre;05;Metropolitana de Porto Alegre;026;Porto Alegre;00604;4300604;Alvorada;10;430060410;Estância Grande;10;43006041010;MZ10- Umbu
+43;Rio Grande do Sul;4301;Porto Alegre;430001;Porto Alegre;05;Metropolitana de Porto Alegre;026;Porto Alegre;00604;4300604;Alvorada;10;430060410;Estância Grande;11;43006041011;MZ 11 - Industrial
+43;Rio Grande do Sul;4307;Caxias do Sul;430036;Caxias do Sul;02;Nordeste Rio-grandense;016;Caxias do Sul;05108;4305108;Caxias do Sul;05;430510805;Caxias do Sul;10;43051080510;RA 01 - Centro
+43;Rio Grande do Sul;4307;Caxias do Sul;430036;Caxias do Sul;02;Nordeste Rio-grandense;016;Caxias do Sul;05108;4305108;Caxias do Sul;05;430510805;Caxias do Sul;11;43051080511;RA 02 - Santa Lúcia
+43;Rio Grande do Sul;4307;Caxias do Sul;430036;Caxias do Sul;02;Nordeste Rio-grandense;016;Caxias do Sul;05108;4305108;Caxias do Sul;05;430510805;Caxias do Sul;12;43051080512;RA 03 - Fátima
+43;Rio Grande do Sul;4307;Caxias do Sul;430036;Caxias do Sul;02;Nordeste Rio-grandense;016;Caxias do Sul;05108;4305108;Caxias do Sul;05;430510805;Caxias do Sul;13;43051080513;RA 04 - Cruzeiro
+43;Rio Grande do Sul;4307;Caxias do Sul;430036;Caxias do Sul;02;Nordeste Rio-grandense;016;Caxias do Sul;05108;4305108;Caxias do Sul;05;430510805;Caxias do Sul;14;43051080514;RA 05 - Esplanada
+43;Rio Grande do Sul;4307;Caxias do Sul;430036;Caxias do Sul;02;Nordeste Rio-grandense;016;Caxias do Sul;05108;4305108;Caxias do Sul;05;430510805;Caxias do Sul;15;43051080515;RA 06 - Rizzo
+43;Rio Grande do Sul;4307;Caxias do Sul;430036;Caxias do Sul;02;Nordeste Rio-grandense;016;Caxias do Sul;05108;4305108;Caxias do Sul;05;430510805;Caxias do Sul;16;43051080516;RA 07 - Forqueta
+43;Rio Grande do Sul;4307;Caxias do Sul;430036;Caxias do Sul;02;Nordeste Rio-grandense;016;Caxias do Sul;05108;4305108;Caxias do Sul;05;430510805;Caxias do Sul;17;43051080517;RA 08 - Ana Rech
+43;Rio Grande do Sul;4307;Caxias do Sul;430036;Caxias do Sul;02;Nordeste Rio-grandense;016;Caxias do Sul;05108;4305108;Caxias do Sul;05;430510805;Caxias do Sul;18;43051080518;RA 09 - Galópolis
+43;Rio Grande do Sul;4307;Caxias do Sul;430036;Caxias do Sul;02;Nordeste Rio-grandense;016;Caxias do Sul;05108;4305108;Caxias do Sul;05;430510805;Caxias do Sul;19;43051080519;RA 10 - Serrano
+43;Rio Grande do Sul;4307;Caxias do Sul;430036;Caxias do Sul;02;Nordeste Rio-grandense;016;Caxias do Sul;05108;4305108;Caxias do Sul;05;430510805;Caxias do Sul;20;43051080520;RA 11 - Planalto
+43;Rio Grande do Sul;4307;Caxias do Sul;430036;Caxias do Sul;02;Nordeste Rio-grandense;016;Caxias do Sul;05108;4305108;Caxias do Sul;05;430510805;Caxias do Sul;21;43051080521;RA 12 - Presidente Vargas
+43;Rio Grande do Sul;4307;Caxias do Sul;430036;Caxias do Sul;02;Nordeste Rio-grandense;016;Caxias do Sul;05108;4305108;Caxias do Sul;05;430510805;Caxias do Sul;22;43051080522;RA 13 - São Giácomo
+43;Rio Grande do Sul;4307;Caxias do Sul;430036;Caxias do Sul;02;Nordeste Rio-grandense;016;Caxias do Sul;05108;4305108;Caxias do Sul;05;430510805;Caxias do Sul;23;43051080523;RA 14 - Nossa Senhora da Saúde
+43;Rio Grande do Sul;4307;Caxias do Sul;430036;Caxias do Sul;02;Nordeste Rio-grandense;016;Caxias do Sul;05108;4305108;Caxias do Sul;05;430510805;Caxias do Sul;24;43051080524;RA 15 - Santa Fé
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;05439;4305439;Chuí;05;430543905;Chuí;01;43054390501;Área de Planejamento 01
+43;Rio Grande do Sul;4302;Pelotas;430010;Bagé;06;Sudoeste Rio-grandense;031;Campanha Meridional;06601;4306601;Dom Pedrito;05;430660105;Dom Pedrito;06;43066010506;Sede
+43;Rio Grande do Sul;4302;Pelotas;430010;Bagé;06;Sudoeste Rio-grandense;031;Campanha Meridional;06601;4306601;Dom Pedrito;05;430660105;Dom Pedrito;07;43066010507;Caveiras
+43;Rio Grande do Sul;4302;Pelotas;430010;Bagé;06;Sudoeste Rio-grandense;031;Campanha Meridional;06601;4306601;Dom Pedrito;05;430660105;Dom Pedrito;08;43066010508;Vacaiquá
+43;Rio Grande do Sul;4302;Pelotas;430010;Bagé;06;Sudoeste Rio-grandense;031;Campanha Meridional;06601;4306601;Dom Pedrito;05;430660105;Dom Pedrito;09;43066010509;Ponche Verde
+43;Rio Grande do Sul;4302;Pelotas;430010;Bagé;06;Sudoeste Rio-grandense;031;Campanha Meridional;06601;4306601;Dom Pedrito;05;430660105;Dom Pedrito;10;43066010510;Fontouras
+43;Rio Grande do Sul;4301;Porto Alegre;430001;Porto Alegre;05;Metropolitana de Porto Alegre;026;Porto Alegre;07708;4307708;Esteio;05;430770805;Esteio;10;43077080510;Leste
+43;Rio Grande do Sul;4301;Porto Alegre;430001;Porto Alegre;05;Metropolitana de Porto Alegre;026;Porto Alegre;07708;4307708;Esteio;05;430770805;Esteio;15;43077080515;Norte
+43;Rio Grande do Sul;4301;Porto Alegre;430001;Porto Alegre;05;Metropolitana de Porto Alegre;026;Porto Alegre;07708;4307708;Esteio;05;430770805;Esteio;20;43077080520;Oeste
+43;Rio Grande do Sul;4301;Porto Alegre;430001;Porto Alegre;05;Metropolitana de Porto Alegre;026;Porto Alegre;07708;4307708;Esteio;05;430770805;Esteio;25;43077080525;Sul
+43;Rio Grande do Sul;4306;Passo Fundo;430025;Passo Fundo;01;Noroeste Rio-grandense;010;Passo Fundo;14100;4314100;Passo Fundo;05;431410005;Passo Fundo;01;43141000501;"Região do Bairro Centro ""Centro e Vila Vergueiro"""
+43;Rio Grande do Sul;4306;Passo Fundo;430025;Passo Fundo;01;Noroeste Rio-grandense;010;Passo Fundo;14100;4314100;Passo Fundo;05;431410005;Passo Fundo;02;43141000502;Região do Bairro Boqueirão
+43;Rio Grande do Sul;4306;Passo Fundo;430025;Passo Fundo;01;Noroeste Rio-grandense;010;Passo Fundo;14100;4314100;Passo Fundo;05;431410005;Passo Fundo;03;43141000503;Região do Bairro Vera Cruz
+43;Rio Grande do Sul;4306;Passo Fundo;430025;Passo Fundo;01;Noroeste Rio-grandense;010;Passo Fundo;14100;4314100;Passo Fundo;05;431410005;Passo Fundo;04;43141000504;Região do Bairro Petrópolis
+43;Rio Grande do Sul;4306;Passo Fundo;430025;Passo Fundo;01;Noroeste Rio-grandense;010;Passo Fundo;14100;4314100;Passo Fundo;05;431410005;Passo Fundo;05;43141000505;Região do Bairro São Luiz Gonzaga
+43;Rio Grande do Sul;4306;Passo Fundo;430025;Passo Fundo;01;Noroeste Rio-grandense;010;Passo Fundo;14100;4314100;Passo Fundo;05;431410005;Passo Fundo;06;43141000506;"Região do Bairro ""Vila Cruzeiro"""
+43;Rio Grande do Sul;4306;Passo Fundo;430025;Passo Fundo;01;Noroeste Rio-grandense;010;Passo Fundo;14100;4314100;Passo Fundo;05;431410005;Passo Fundo;07;43141000507;Região do Bairro Lucas de Araújo
+43;Rio Grande do Sul;4306;Passo Fundo;430025;Passo Fundo;01;Noroeste Rio-grandense;010;Passo Fundo;14100;4314100;Passo Fundo;05;431410005;Passo Fundo;08;43141000508;Região do Bairro Santa Marta
+43;Rio Grande do Sul;4306;Passo Fundo;430025;Passo Fundo;01;Noroeste Rio-grandense;010;Passo Fundo;14100;4314100;Passo Fundo;05;431410005;Passo Fundo;09;43141000509;Região do Bairro Integração
+43;Rio Grande do Sul;4306;Passo Fundo;430025;Passo Fundo;01;Noroeste Rio-grandense;010;Passo Fundo;14100;4314100;Passo Fundo;05;431410005;Passo Fundo;10;43141000510;"Região do Bairro ""Vila Vitor Issler"""
+43;Rio Grande do Sul;4306;Passo Fundo;430025;Passo Fundo;01;Noroeste Rio-grandense;010;Passo Fundo;14100;4314100;Passo Fundo;05;431410005;Passo Fundo;11;43141000511;Região do Bairro São José
+43;Rio Grande do Sul;4306;Passo Fundo;430025;Passo Fundo;01;Noroeste Rio-grandense;010;Passo Fundo;14100;4314100;Passo Fundo;05;431410005;Passo Fundo;12;43141000512;Região do Bairro São Cristóvão
+43;Rio Grande do Sul;4306;Passo Fundo;430025;Passo Fundo;01;Noroeste Rio-grandense;010;Passo Fundo;14100;4314100;Passo Fundo;05;431410005;Passo Fundo;13;43141000513;Região do Bairro Roselândia
+43;Rio Grande do Sul;4306;Passo Fundo;430025;Passo Fundo;01;Noroeste Rio-grandense;010;Passo Fundo;14100;4314100;Passo Fundo;05;431410005;Passo Fundo;14;43141000514;"Região do Bairro ""Vila Mattos"""
+43;Rio Grande do Sul;4306;Passo Fundo;430025;Passo Fundo;01;Noroeste Rio-grandense;010;Passo Fundo;14100;4314100;Passo Fundo;05;431410005;Passo Fundo;15;43141000515;"Região do Bairro Annes ""Vila Fátima e Vila Annes"""
+43;Rio Grande do Sul;4306;Passo Fundo;430025;Passo Fundo;01;Noroeste Rio-grandense;010;Passo Fundo;14100;4314100;Passo Fundo;05;431410005;Passo Fundo;16;43141000516;Região do Bairro José Alexandre Zachia
+43;Rio Grande do Sul;4306;Passo Fundo;430025;Passo Fundo;01;Noroeste Rio-grandense;010;Passo Fundo;14100;4314100;Passo Fundo;05;431410005;Passo Fundo;17;43141000517;"Região do Bairro Valinhos ""Loteamento Industrial e São Lucas"
+43;Rio Grande do Sul;4306;Passo Fundo;430025;Passo Fundo;01;Noroeste Rio-grandense;010;Passo Fundo;14100;4314100;Passo Fundo;05;431410005;Passo Fundo;18;43141000518;"Região do Bairro ""Vila Luíza"""
+43;Rio Grande do Sul;4306;Passo Fundo;430025;Passo Fundo;01;Noroeste Rio-grandense;010;Passo Fundo;14100;4314100;Passo Fundo;05;431410005;Passo Fundo;19;43141000519;"Região do Bairro ""Vila Rodrigues"""
+43;Rio Grande do Sul;4306;Passo Fundo;430025;Passo Fundo;01;Noroeste Rio-grandense;010;Passo Fundo;14100;4314100;Passo Fundo;05;431410005;Passo Fundo;20;43141000520;"Região do Bairro ""Vila Santa Maria"""
+43;Rio Grande do Sul;4306;Passo Fundo;430025;Passo Fundo;01;Noroeste Rio-grandense;010;Passo Fundo;14100;4314100;Passo Fundo;05;431410005;Passo Fundo;21;43141000521;Região do Bairro Planaltina
+43;Rio Grande do Sul;4306;Passo Fundo;430025;Passo Fundo;01;Noroeste Rio-grandense;010;Passo Fundo;14100;4314100;Passo Fundo;05;431410005;Passo Fundo;22;43141000522;Região do Bairro Nenê Graeff
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;033;Pelotas;14407;4314407;Pelotas;05;431440705;Pelotas;13;43144070513;Três Vendas
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;033;Pelotas;14407;4314407;Pelotas;05;431440705;Pelotas;14;43144070514;Barragem
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;033;Pelotas;14407;4314407;Pelotas;05;431440705;Pelotas;15;43144070515;Fragata
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;033;Pelotas;14407;4314407;Pelotas;05;431440705;Pelotas;16;43144070516;Centro
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;033;Pelotas;14407;4314407;Pelotas;05;431440705;Pelotas;18;43144070518;Areal
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;033;Pelotas;14407;4314407;Pelotas;05;431440705;Pelotas;19;43144070519;Laranjal/Z3
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;033;Pelotas;14407;4314407;Pelotas;05;431440705;Pelotas;20;43144070520;São Gonçalo
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;01;43156020501;Unidade Censitária 01
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;02;43156020502;Unidade Censitária 02
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;03;43156020503;Unidade Censitária 03
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;04;43156020504;Unidade Censitária 04
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;05;43156020505;Unidade Censitária 05
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;06;43156020506;Unidade Censitária 06
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;07;43156020507;Unidade Censitária 07
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;08;43156020508;Unidade Censitária 08
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;09;43156020509;Unidade Censitária 09
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;10;43156020510;UNidade Censitária 10
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;11;43156020511;Unidade Censitária 11
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;12;43156020512;Unidade Censitária 12
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;13;43156020513;Unidade Censitária 13
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;14;43156020514;Unidade Censitária 14
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;15;43156020515;Unidade Censitária 15
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;16;43156020516;Unidade Censitária 16
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;17;43156020517;Unidade Censitária 17
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;18;43156020518;Unidade Censitária 18
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;19;43156020519;Unidade Censitária 19
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;20;43156020520;Unidade Censitária 20
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;21;43156020521;Unidade Censitária 21
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;22;43156020522;Unidade Censitária 22
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;23;43156020523;Unidade Censitária 23
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;24;43156020524;Unidade Censitária 24
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;25;43156020525;Unidade Censitária 25
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;26;43156020526;Unidade Censitária 26
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;27;43156020527;Unidade Censitária 27
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;28;43156020528;Unidade Censitária 28
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;29;43156020529;Unidade Censitária 29
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;30;43156020530;Unidade Censitária 30
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;31;43156020531;Unidade Censitária 31
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;32;43156020532;Unidade Censitária 32
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;33;43156020533;Unidade Censitária 33
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;34;43156020534;Unidade Censitária 34
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;35;43156020535;Unidade Censitária 35
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;36;43156020536;Unidade Censitária 36
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;37;43156020537;Unidade Censitária 37
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;05;431560205;Rio Grande;38;43156020538;Unidade Censitária 38
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;15;431560215;Povo Novo;01;43156021501;Unidade Censitária 41
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;20;431560220;Quinta;01;43156022001;Unidade Censitária 42
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;25;431560225;Taim;01;43156022501;Unidade Censitária 40
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;15602;4315602;Rio Grande;30;431560230;Ilha dos Marinheiros;01;43156023001;Unidade Censitária 39
+43;Rio Grande do Sul;4303;Santa Maria;430011;Santa Maria;03;Centro Ocidental Rio-grandense;018;Santa Maria;16907;4316907;Santa Maria;05;431690705;Santa Maria;06;43169070506;Centro Urbano
+43;Rio Grande do Sul;4303;Santa Maria;430011;Santa Maria;03;Centro Ocidental Rio-grandense;018;Santa Maria;16907;4316907;Santa Maria;05;431690705;Santa Maria;07;43169070507;Norte
+43;Rio Grande do Sul;4303;Santa Maria;430011;Santa Maria;03;Centro Ocidental Rio-grandense;018;Santa Maria;16907;4316907;Santa Maria;05;431690705;Santa Maria;08;43169070508;Nordeste
+43;Rio Grande do Sul;4303;Santa Maria;430011;Santa Maria;03;Centro Ocidental Rio-grandense;018;Santa Maria;16907;4316907;Santa Maria;05;431690705;Santa Maria;09;43169070509;Leste
+43;Rio Grande do Sul;4303;Santa Maria;430011;Santa Maria;03;Centro Ocidental Rio-grandense;018;Santa Maria;16907;4316907;Santa Maria;05;431690705;Santa Maria;10;43169070510;Centro-Leste
+43;Rio Grande do Sul;4303;Santa Maria;430011;Santa Maria;03;Centro Ocidental Rio-grandense;018;Santa Maria;16907;4316907;Santa Maria;05;431690705;Santa Maria;11;43169070511;Sul
+43;Rio Grande do Sul;4303;Santa Maria;430011;Santa Maria;03;Centro Ocidental Rio-grandense;018;Santa Maria;16907;4316907;Santa Maria;05;431690705;Santa Maria;12;43169070512;Centro-Oeste
+43;Rio Grande do Sul;4303;Santa Maria;430011;Santa Maria;03;Centro Ocidental Rio-grandense;018;Santa Maria;16907;4316907;Santa Maria;05;431690705;Santa Maria;13;43169070513;Oeste
+43;Rio Grande do Sul;4305;Ijuí;430020;Santo Ângelo;01;Noroeste Rio-grandense;007;Santo Ângelo;17509;4317509;Santo Ângelo;05;431750905;Santo Ângelo;01;43175090501;Uplans 1
+43;Rio Grande do Sul;4305;Ijuí;430020;Santo Ângelo;01;Noroeste Rio-grandense;007;Santo Ângelo;17509;4317509;Santo Ângelo;05;431750905;Santo Ângelo;02;43175090502;Uplans 2
+43;Rio Grande do Sul;4305;Ijuí;430020;Santo Ângelo;01;Noroeste Rio-grandense;007;Santo Ângelo;17509;4317509;Santo Ângelo;05;431750905;Santo Ângelo;03;43175090503;Uplans 3
+43;Rio Grande do Sul;4305;Ijuí;430020;Santo Ângelo;01;Noroeste Rio-grandense;007;Santo Ângelo;17509;4317509;Santo Ângelo;05;431750905;Santo Ângelo;04;43175090504;Uplans 4
+43;Rio Grande do Sul;4305;Ijuí;430020;Santo Ângelo;01;Noroeste Rio-grandense;007;Santo Ângelo;17509;4317509;Santo Ângelo;05;431750905;Santo Ângelo;05;43175090505;Uplans 5
+43;Rio Grande do Sul;4305;Ijuí;430020;Santo Ângelo;01;Noroeste Rio-grandense;007;Santo Ângelo;17509;4317509;Santo Ângelo;05;431750905;Santo Ângelo;06;43175090506;Uplans 6
+43;Rio Grande do Sul;4305;Ijuí;430020;Santo Ângelo;01;Noroeste Rio-grandense;007;Santo Ângelo;17509;4317509;Santo Ângelo;05;431750905;Santo Ângelo;07;43175090507;Uplans 7
+43;Rio Grande do Sul;4305;Ijuí;430020;Santo Ângelo;01;Noroeste Rio-grandense;007;Santo Ângelo;17509;4317509;Santo Ângelo;05;431750905;Santo Ângelo;08;43175090508;Uplans 8
+43;Rio Grande do Sul;4305;Ijuí;430020;Santo Ângelo;01;Noroeste Rio-grandense;007;Santo Ângelo;17509;4317509;Santo Ângelo;05;431750905;Santo Ângelo;09;43175090509;Uplans 9
+43;Rio Grande do Sul;4305;Ijuí;430020;Santo Ângelo;01;Noroeste Rio-grandense;007;Santo Ângelo;17509;4317509;Santo Ângelo;05;431750905;Santo Ângelo;10;43175090510;Uplans 10
+43;Rio Grande do Sul;4305;Ijuí;430020;Santo Ângelo;01;Noroeste Rio-grandense;007;Santo Ângelo;17509;4317509;Santo Ângelo;05;431750905;Santo Ângelo;11;43175090511;Uplans 11
+43;Rio Grande do Sul;4305;Ijuí;430020;Santo Ângelo;01;Noroeste Rio-grandense;007;Santo Ângelo;17509;4317509;Santo Ângelo;05;431750905;Santo Ângelo;12;43175090512;Uplans 12
+43;Rio Grande do Sul;4305;Ijuí;430020;Santo Ângelo;01;Noroeste Rio-grandense;007;Santo Ângelo;17509;4317509;Santo Ângelo;05;431750905;Santo Ângelo;13;43175090513;Uplans 13
+43;Rio Grande do Sul;4305;Ijuí;430020;Santo Ângelo;01;Noroeste Rio-grandense;007;Santo Ângelo;17509;4317509;Santo Ângelo;05;431750905;Santo Ângelo;14;43175090514;Uplans 14
+43;Rio Grande do Sul;4305;Ijuí;430020;Santo Ângelo;01;Noroeste Rio-grandense;007;Santo Ângelo;17509;4317509;Santo Ângelo;05;431750905;Santo Ângelo;15;43175090515;Uplans 15
+43;Rio Grande do Sul;4305;Ijuí;430020;Santo Ângelo;01;Noroeste Rio-grandense;007;Santo Ângelo;17509;4317509;Santo Ângelo;05;431750905;Santo Ângelo;16;43175090516;Uplans 16
+43;Rio Grande do Sul;4305;Ijuí;430020;Santo Ângelo;01;Noroeste Rio-grandense;007;Santo Ângelo;17509;4317509;Santo Ângelo;05;431750905;Santo Ângelo;17;43175090517;Uplans 17
+43;Rio Grande do Sul;4305;Ijuí;430020;Santo Ângelo;01;Noroeste Rio-grandense;007;Santo Ângelo;17509;4317509;Santo Ângelo;05;431750905;Santo Ângelo;18;43175090518;Uplans 18
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;18507;4318507;São José do Norte;05;431850705;São José do Norte;01;43185070501;Núcleo Cidade Baixa
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;18507;4318507;São José do Norte;05;431850705;São José do Norte;02;43185070502;Núcleo São José do Norte-Sul
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;18507;4318507;São José do Norte;05;431850705;São José do Norte;03;43185070503;Núcleo São José do Norte-Norte
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;18507;4318507;São José do Norte;05;431850705;São José do Norte;04;43185070504;Núcleo Centro Histórico
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;18507;4318507;São José do Norte;05;431850705;São José do Norte;05;43185070505;Núcleo Barra-Molhe Leste
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;18507;4318507;São José do Norte;05;431850705;São José do Norte;06;43185070506;Núcleo Zona Rural
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;18507;4318507;São José do Norte;10;431850710;Bojuru;01;43185071001;Núcleo do Segundo Distrito
+43;Rio Grande do Sul;4302;Pelotas;430009;Pelotas;07;Sudeste Rio-grandense;035;Litoral Lagunar;18507;4318507;São José do Norte;15;431850715;Estreito;01;43185071501;Núcleo do Terceiro Distrito
+50;Mato Grosso do Sul;5001;Campo Grande;500001;Campo Grande;02;Centro Norte de Mato Grosso do Sul;004;Campo Grande;02704;5002704;Campo Grande;05;500270405;Campo Grande;06;50027040506;Região Urbana do Centro
+50;Mato Grosso do Sul;5001;Campo Grande;500001;Campo Grande;02;Centro Norte de Mato Grosso do Sul;004;Campo Grande;02704;5002704;Campo Grande;05;500270405;Campo Grande;07;50027040507;Região Urbana do Prosa
+50;Mato Grosso do Sul;5001;Campo Grande;500001;Campo Grande;02;Centro Norte de Mato Grosso do Sul;004;Campo Grande;02704;5002704;Campo Grande;05;500270405;Campo Grande;08;50027040508;Região Urbana do Segredo
+50;Mato Grosso do Sul;5001;Campo Grande;500001;Campo Grande;02;Centro Norte de Mato Grosso do Sul;004;Campo Grande;02704;5002704;Campo Grande;05;500270405;Campo Grande;09;50027040509;Região Urbana do Imbirussú
+50;Mato Grosso do Sul;5001;Campo Grande;500001;Campo Grande;02;Centro Norte de Mato Grosso do Sul;004;Campo Grande;02704;5002704;Campo Grande;05;500270405;Campo Grande;11;50027040511;Região Urbana do Anhanduizinho
+50;Mato Grosso do Sul;5001;Campo Grande;500001;Campo Grande;02;Centro Norte de Mato Grosso do Sul;004;Campo Grande;02704;5002704;Campo Grande;05;500270405;Campo Grande;12;50027040512;Região Urbana do Bandeira
+50;Mato Grosso do Sul;5001;Campo Grande;500001;Campo Grande;02;Centro Norte de Mato Grosso do Sul;004;Campo Grande;02704;5002704;Campo Grande;05;500270405;Campo Grande;13;50027040513;Região Urbana do Lagoa
+50;Mato Grosso do Sul;5002;Dourados;500008;Ponta Porã;04;Sudoeste de Mato Grosso do Sul;010;Dourados;06606;5006606;Ponta Porã;05;500660605;Ponta Porã;01;50066060501;Setor Vilela
+50;Mato Grosso do Sul;5002;Dourados;500008;Ponta Porã;04;Sudoeste de Mato Grosso do Sul;010;Dourados;06606;5006606;Ponta Porã;05;500660605;Ponta Porã;02;50066060502;Setor Ypê
+50;Mato Grosso do Sul;5002;Dourados;500008;Ponta Porã;04;Sudoeste de Mato Grosso do Sul;010;Dourados;06606;5006606;Ponta Porã;05;500660605;Ponta Porã;03;50066060503;Setor Centro
+50;Mato Grosso do Sul;5002;Dourados;500008;Ponta Porã;04;Sudoeste de Mato Grosso do Sul;010;Dourados;06606;5006606;Ponta Porã;05;500660605;Ponta Porã;04;50066060504;Setor Aeroporto
+50;Mato Grosso do Sul;5002;Dourados;500008;Ponta Porã;04;Sudoeste de Mato Grosso do Sul;010;Dourados;06606;5006606;Ponta Porã;05;500660605;Ponta Porã;05;50066060505;Setor Marambaia
+51;Mato Grosso;5101;Cuiabá;510001;Cuiabá;04;Centro-Sul Mato-grossense;017;Cuiabá;03403;5103403;Cuiabá;05;510340305;Cuiabá;40;51034030540;Administração Regional Norte
+51;Mato Grosso;5101;Cuiabá;510001;Cuiabá;04;Centro-Sul Mato-grossense;017;Cuiabá;03403;5103403;Cuiabá;05;510340305;Cuiabá;41;51034030541;Administração Regional Centro-Oeste
+51;Mato Grosso;5101;Cuiabá;510001;Cuiabá;04;Centro-Sul Mato-grossense;017;Cuiabá;03403;5103403;Cuiabá;05;510340305;Cuiabá;42;51034030542;Administração Regional Centro-Leste
+51;Mato Grosso;5101;Cuiabá;510001;Cuiabá;04;Centro-Sul Mato-grossense;017;Cuiabá;03403;5103403;Cuiabá;10;510340310;Coxipó da Ponte;40;51034031040;Administração Regional Norte
+51;Mato Grosso;5101;Cuiabá;510001;Cuiabá;04;Centro-Sul Mato-grossense;017;Cuiabá;03403;5103403;Cuiabá;10;510340310;Coxipó da Ponte;42;51034031042;Administração Regional Centro-Leste
+51;Mato Grosso;5101;Cuiabá;510001;Cuiabá;04;Centro-Sul Mato-grossense;017;Cuiabá;03403;5103403;Cuiabá;10;510340310;Coxipó da Ponte;43;51034031043;Administração Regional Sul-Leste
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;01;52087070501;U.T.P. Central
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;02;52087070502;U.T.P. Sul
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;03;52087070503;U.T.P. Marista
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;04;52087070504;U.T.P. Oeste
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;05;52087070505;U.T.P. Aeroporto
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;06;52087070506;U.T.P. Norte Ferroviário
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;07;52087070507;U.T.P. Vila Nova
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;08;52087070508;U.T.P. Leste Universitário
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;09;52087070509;U.T.P. Jardim Goiás
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;10;52087070510;U.T.P. Alto da Glória e Redenção
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;11;52087070511;U.T.P. Santo Antonio
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;12;52087070512;U.T.P. Pedro Ludovico/Bela Vista/Jardins das Esmeraldas
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;13;52087070513;U.T.P. Bueno
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;14;52087070514;U.T.P. Nova Suiça
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;15;52087070515;U.T.P. Parque Amazônia
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;16;52087070516;U.T.P. Jardim América
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;17;52087070517;U.T.P. Sudoeste
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;18;52087070518;U.T.P. Cidade Jardim
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;19;52087070519;U.T.P. Coimbra
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;20;52087070520;U.T.P. Campinas
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;21;52087070521;U.T.P. Aeroviários
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;22;52087070522;U.T.P. Marechal Rondon
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;23;52087070523;U.T.P. Criméia Leste
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;24;52087070524;U.T.P. Negrão de Lima
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;25;52087070525;U.T.P. Bairro Feliz
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;26;52087070526;U.T.P. Jardim Novo Mundo
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;27;52087070527;U.T.P. Riviera/Água Branca
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;28;52087070528;U.T.P. Autódromo ou Parque Lozandes
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;29;52087070529;U.T.P. Parque das Laranjeiras e Jardim da Luz
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;30;52087070530;U.T.P. Jardim Atlântico
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;31;52087070531;U.T.P. Jardim Europa
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;32;52087070532;U.T.P. Novo Horizonte/Faiçalville
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;33;52087070533;U.T.P. Celina Park/Recreio dos Funcionários
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;34;52087070534;U.T.P. Caravelas
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;35;52087070535;U.T.P. Baliza-Itaipu
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;36;52087070536;U.T.P. Parque Santa Rita
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;37;52087070537;U.T.P. Parque Oeste Industrial
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;38;52087070538;U.T.P. João Braz
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;39;52087070539;U.T.P. Vila Rizzo
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;40;52087070540;U.T.P. Parque Bom Jesus
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;41;52087070541;U.T.P. Vera Cruz
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;42;52087070542;U.T.P. Jardim Petrópolis
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;43;52087070543;U.T.P. Vila Regina/Parque Industrial Paulista/Santos Dumont
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;44;52087070544;U.T.P. Cândida de Morais/Maria Dilce
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;45;52087070545;U.T.P. Capuava
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;46;52087070546;U.T.P. Urias Magalhães
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;47;52087070547;U.T.P. Goiânia II
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;48;52087070548;U.T.P. Santa Genoveva
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;49;52087070549;U.T.P. Aeroporto Internacional Santa Genoveva
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;50;52087070550;U.T.P. Jaó
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;51;52087070551;U.T.P. Santo Hilário
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;52;52087070552;U.T.P. Vila Pedroso
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;53;52087070553;U.T.P. Chácaras São Joaquim
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;54;52087070554;U.T.P. Mutirão e Curitiba
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;55;52087070555;U.T.P. São Domingos
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;56;52087070556;U.T.P. Finsocial
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;57;52087070557;U.T.P. Jardim Balneário Meia Ponte/Mansões Goianas
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;58;52087070558;U.T.P. Campus Universitário/Conjunto Itatiaia
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;59;52087070559;U.T.P. Vila Jardim São Judas Tadeu/Jardim Pompéia
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;60;52087070560;U.T.P. Jardim Guanabara
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;61;52087070561;U.T.P. CEASA/Aldeia do Vale
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;62;52087070562;U.T.P. Jardim Primavera
+52;Goiás;5201;Goiânia;520001;Goiânia;03;Centro Goiano;010;Goiânia;08707;5208707;Goiânia;05;520870705;Goiânia;63;52087070563;U.T.P. Zona Rural
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;06;53001080506;Plano Piloto
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;07;53001080507;Gama
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;08;53001080508;Taguatinga
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;09;53001080509;Brazlândia
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;10;53001080510;Sobradinho
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;11;53001080511;Planaltina
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;12;53001080512;Paranoá
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;13;53001080513;Riacho Fundo
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;14;53001080514;Núcleo Bandeirante
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;15;53001080515;Ceilândia
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;16;53001080516;Guará
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;17;53001080517;Cruzeiro
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;18;53001080518;Samambaia
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;19;53001080519;Candangolândia
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;20;53001080520;Recanto das Emas
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;21;53001080521;Lago Norte
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;23;53001080523;Lago Sul
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;25;53001080525;Santa Maria
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;30;53001080530;São Sebastião
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;31;53001080531;Sol Nascente/Pôr do Sol
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;32;53001080532;Arniqueira
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;33;53001080533;SIA
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;34;53001080534;SCIA
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;35;53001080535;Sudoeste/Octogonal
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;36;53001080536;Águas Claras
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;37;53001080537;Vicente Pires
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;38;53001080538;Itapoã
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;39;53001080539;Fercal
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;40;53001080540;Jardim Botânico
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;41;53001080541;Riacho Fundo II
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;42;53001080542;Park Way
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;43;53001080543;Varjão
+53;Distrito Federal;5301;Distrito Federal;530001;Distrito Federal;01;Distrito Federal;001;Brasília;00108;5300108;Brasília;05;530010805;Brasília;44;53001080544;Sobradinho II
