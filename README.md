@@ -30,6 +30,11 @@ O repositório está organizado da seguinte forma:
 2. Caso queira fazer pesquisa de alguma meta que ainda não está com a pasta criada, é só contatar os organizadores que iremos criar uma para você.
 3. Clone este repositório e comece a trabalhar em sua análise!
 
+
+## Comandos úteis do GIT
+Caso você não esteja familiarizado com os comandos do GIT, segue um link par ate ajudar: https://gist.github.com/leocomelli/2545add34e4fec21ec16
+
+
 ## Dúvidas e Suporte 🗣️
 
 Se tiver alguma dúvida ou precisar de suporte, não hesite em entrar em contato com a organização do evento ou abrir uma issue neste repositório.
