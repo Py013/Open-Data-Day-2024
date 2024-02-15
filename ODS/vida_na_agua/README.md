@@ -1,4 +1,4 @@
-# open-data-day-2024
+# Open Data Day 2024
 
 ## Links Úteis
 
